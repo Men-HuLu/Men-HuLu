@@ -1,7 +1,7 @@
 ### Hi there 👋  This is Men-HuLu
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning beancount
+- 🌱 I’m currently learning net core
 - 👯 I’m looking to collaborate on my-blog,on 8.20 blog.yuminjun.cn  replace men-hulu.github.io 
 - 📫 How to reach me:15705850186@163.com
 
